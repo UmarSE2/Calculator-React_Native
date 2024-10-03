@@ -39,7 +39,3 @@ export default function Calculator({ colors }) {
         </View>
     )
 }
-
-const styles = StyleSheet.create({
-
-})
