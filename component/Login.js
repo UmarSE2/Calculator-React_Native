@@ -17,10 +17,10 @@ const LoginBasics = () => {
                 <View style={styles.line} />
             </View>
             <View style={styles.join}>
-                <Text style={styles.footer}>Not a member? </Text>
+                <Text style={styles.footer}>Not a Member? </Text>
                 <TouchableOpacity>
                     <Text style={styles.log} onpress={() => Linking.openURL('https://www.google.com')} >
-                        Sign up
+                        Sign Up
                     </Text>
                 </TouchableOpacity>
             </View>
