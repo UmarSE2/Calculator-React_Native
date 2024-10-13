@@ -1,5 +1,5 @@
-import { Switch } from 'react-native';
 import React from 'react';
+import { Switch } from 'react-native';
 
 export default function ThemeSwitch({ darkTheme, setDarkTheme, colors }) {
     return (
